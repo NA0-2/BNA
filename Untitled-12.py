@@ -1,1 +1,1 @@
-print("Bassam")
+print("Easy")
